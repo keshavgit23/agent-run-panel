@@ -82,7 +82,7 @@ http://localhost:5173
 - JavaScript (ES6)
 ---
 
-##📌 Notes
+## 📌 Notes
 This project uses mock data and simulated timing
 No backend or API integration is used
 Focus is on UI behavior and task flow visualization
