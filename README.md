@@ -82,11 +82,11 @@ http://localhost:5173
 - JavaScript (ES6)
 ---
 
-## 📌 Notes
-This project uses mock data and simulated timing
-No backend or API integration is used
-Focus is on UI behavior and task flow visualization
----
+## 🤖 AI Assistance
 
-🙌 Author
+This project was built independently, with some guidance and debugging assistance from AI tools for understanding concepts, fixing errors, and improving code structure.
+
+All implementation, logic, and final decisions were made by me.
+
+## 🙌 Author
 Krish Pawar
